@@ -1,7 +1,6 @@
 return {
     ["ShupeiTeu_Cu"] = true,
     ["Shupei_Tuavara"] = true,
-    ["sr_greg81"] = true,
     ["AntiMandrakesAdmTeam"] = true,
     ["AntiMandrakesAdm2"] = true,
     ["djekejsn"] = true,
@@ -23,5 +22,6 @@ return {
     ["roblox_user_8524457786"] = true,
     ["1x1x1x1xq333"] = true,
     ["roblox_user_8070540603"] = true,
-    ["Gabriel19383838"] = true
+    ["Gabriel19383838"] = true,
+    ["Lp_Games9"] = true
 }
